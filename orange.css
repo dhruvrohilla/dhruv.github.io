@@ -1,0 +1,23 @@
+:root{
+	--mainColor:#ff7f17;
+	--secondaryColor:#d87c3f;
+
+	--borderColor:#161914;
+
+	--mainText:#fff;
+	--secondaryText:#eeeeee;
+
+	--themeDotBorder:#FFF;
+
+	--previewBg:#d87c3f;
+	--previewShadow:#d46205;
+
+
+	--buttonColor:#ff5100;
+
+
+}
+
+#submit-btn:hover{
+	background-color: #a83f0e;
+}
